@@ -1,0 +1,382 @@
+
+h1{
+    font-family: 'Lato', sans-serif;    
+}
+
+h3{
+    font-family: 'DM Sans', sans-serif;
+}
+
+p{
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+.container1{
+    display: inline-block;
+}
+.services{
+    display: inline-block;
+}
+
+
+
+
+.bindo{
+    padding: 10px;
+    margin-top: auto;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 40px;
+    color: #f8c246;
+    position: absolute;
+    
+}
+
+.forexpats{
+    position: absolute;
+    margin-top: 25px;
+    padding: 20px;
+    padding-left: 10px;
+    font-family: 'Palanquin', sans-serif;
+    font-size: 20px;
+    
+
+}
+.indo-flag-icon{
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+}
+
+.home{
+    position:absolute;
+    margin-top: 1%;
+    left : 250px;   
+    font-family: 'DM Sans', sans-serif; 
+    font-size: 30px;
+    
+}
+.about{
+    position: absolute;
+    margin-top: 1%;
+    left: 310px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 30px;
+    
+}
+
+.courses{
+    position:absolute;
+    margin-top: 1%;
+    left: 370px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 30px;
+    
+}
+
+.free-consultation{
+    position: absolute;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: f8c246;
+    padding-left: 15px;
+    padding-right: 15px;
+    right: 215px;
+    margin-top: -10px
+    
+}
+
+.logo-ls{
+    position: absolute;
+    height: 104px;
+    width: 200px;
+    right: 5px;
+}
+
+.container2{
+    background-color: eeeeee;
+    position: relative;
+    margin-top: 100px;
+
+}
+
+.yourimprovement{
+    margin-top: auto;
+    padding-top: 25%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    
+}
+
+.gambarorang{
+    position: absolute;
+    margin-left:750px; 
+    margin-top: -300px;
+    height: 500px;
+    width: 500px;
+   
+}
+
+.container3{
+    background-color: #f8c246;
+    text-align: center;    
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: larger;
+
+}
+
+.container4{
+    padding-top: 10px;
+    text-align: center;
+    background-color: white;
+    color: 004aad;
+    font-size: larger;
+}
+
+.container5{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+
+.container6{
+    column-count: 3;
+    column-gap: 40px;
+    column-fill: balance;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.classroom-image{
+    width: 99.8%;
+    height: auto;
+
+}
+
+
+.teacher-icon{
+    height: 100px;
+    width:100px;
+    padding-top:20px;
+    
+}
+
+.affordable-icon{
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+}
+
+.flexible-icon{
+    height: 100px;
+    width: 100px;
+    padding-top:20px;
+}
+
+
+.testimony{
+    position: absolute;
+    top: 1800px;
+    margin-bottom:0;
+    margin-inline-start: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: blue;
+    background-size: 475px; 
+    
+    
+}
+
+.testi{
+    color: beige;
+    font-size: 30px
+    
+}
+.testi-content{
+    color:beige;
+    font-size: 20px;
+}
+.jenny{
+    color: beige;
+    font-size: 20px;
+}
+
+.container9{
+    text-align: center;
+    padding-bottom: 30px;
+    background-color: eeeeee;
+}
+
+
+.contactus{
+    position: relative;
+    background-color: #f8c246;
+    width: 428px;
+    height: 30px;
+    padding:10px;
+    margin-inline-start: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 27px;
+    text-align: center;
+    
+}
+
+
+
+.container10{
+    position: relative;
+    background-color:eeeeee;
+    inset: auto;
+    
+          
+}
+
+.courses-all{
+    column-count: 3;
+    column-gap: 10px;
+    column-fill: balance;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-inline-start: 8%; 
+}
+
+.online-image{
+    height: 250px;
+    width: 300px;
+    margin-top: -25px;
+}
+
+.offline-image{
+    height: 250px;
+    width: 300px;
+    margin-top: -25px;
+}
+
+
+.private-class-image{
+    height: 250px;
+    width: 300px;
+    margin-top: -25px;
+}
+
+.online-course{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    position:relative;
+}
+
+.offline-class{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    position:relative;
+}
+
+.private-course{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    position:relative;
+}
+
+.course-txt{
+    position:absolute;
+    background-color: blue;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    color: beige;
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+.book{
+    position:absolute;
+    background-color:#f8c246;
+    bottom: 10%;
+    left: 40%;
+    width: auto;
+    padding: 10px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container11{
+    position:relative;
+    background-color: eeeeee;
+    background-size: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.level-list{
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container12{
+    height:700px;
+}
+
+.contactus2{
+    position: relative;
+    background-color:#f8c246;
+    width: 475px;
+    height: 30px;
+    margin-inline-start: 30%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 27px;
+    text-align: center;
+}
+
+.couseyouneed{
+    position:absolute;
+    margin-top: 10%;
+    margin-left:10px
+}
+
+.logols2{
+    position: relative;
+    left:auto;
+    height:100px;
+    width:300px;
+    top: 350px;
+        
+}
+
+.orangbawah{
+    position: absolute;
+    right:7%;
+
+}
+
+.follow-us{
+    position: absolute;
+    right: 35%;
+    
+}
+
+.socmed{
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+}
